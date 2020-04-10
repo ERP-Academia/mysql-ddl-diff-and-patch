@@ -1,7 +1,6 @@
 <?php
 
 $whereis_mysqldump = '/usr/bin/mysqldump';
-$whereis_mysqladmin = '/usr/bin/mysqladmin';
 $whereis_mysql = '/usr/bin/mysql';
 
 $mysql_user = 'root2';
